@@ -22,5 +22,4 @@ function FizzBuzz (num) {
 }
 
 // Test Fizz Buzz
-
 FizzBuzz(50);
